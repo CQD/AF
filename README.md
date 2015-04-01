@@ -1,6 +1,6 @@
 ## The AF Framework
 
-![MIT Licensed](https://img.shields.io/badge/License-MIT-green.svg?style=flat) ![Sorry I did not tried to "build" this thing...](https://img.shields.io/badge/Build-Passing-green.svg?style=flat) ![](https://img.shields.io/badge/Stable-0.3.0-blue.svg?style=flat) ![](https://img.shields.io/badge/Dev-0.4-yellow.svg?style=flat) ![](https://img.shields.io/badge/PHP-4+-brightgreen.svg?style=flat)
+![MIT Licensed](https://img.shields.io/badge/License-MIT-green.svg?style=flat) ![Sorry I did not tried to "build" this thing...](https://img.shields.io/badge/Build-Passing-green.svg?style=flat) ![](https://img.shields.io/badge/Stable-0.3.0-blue.svg?style=flat) ![](https://img.shields.io/badge/Unstable-0.5-yellow.svg?style=flat) ![](https://img.shields.io/badge/PHP-4+-brightgreen.svg?style=flat) ![](https://img.shields.io/badge/Good-Not%20Evil-brightgreen.svg?style=flat)
 
 ## What is AF Framework
 
