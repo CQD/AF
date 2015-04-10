@@ -1,6 +1,6 @@
 <?php
 
-class WtfTest extends PHPUnit_Framework_TestCase
+class RtsTest extends PHPUnit_Framework_TestCase
 {
     public function testWhatTheFramework()
     {
