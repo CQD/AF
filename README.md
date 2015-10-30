@@ -10,7 +10,7 @@ Modern PHP frameworks are often pretty fat, and too large to put into a single r
 
 Without the extra weight, it is very efficient and fast. On an average machine it should be able to handle thousands of request per second, if not more.
 
-And the minimalistic design also helps to make the learning curve more confortable to newcomers, rookie engineers, and even those just want to learn the right way to do PHP.
+And the minimalistic design also helps to make the learning curve more comfortable to newcomers, rookie engineers, and even those just want to learn the right way to do PHP.
 
 Because AF use the least language feature as possible, it is also possible to adapt it to an older enviroment, makes it easier to modernize legacy product.
 
